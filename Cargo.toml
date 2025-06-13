@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+egui = '0.27.2'
+eframe = '0.27.2'
+rodio = '0.17.3'
+hound = '3.5.1'
+rustfft = '6.2.0'
+num-complex = '0.4.4'
+cpal = '0.15.2'
